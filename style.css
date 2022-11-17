@@ -1,4 +1,4 @@
-.container {
+.container-menu {
     background-color: coral;
     margin-right: 35%;
     margin-left: 35%;
@@ -19,3 +19,24 @@
     bottom: 50px;
 }
 
+.texto-principal{
+    position: relative;
+    left: 35%;
+}
+
+.container-rodape {
+    background-color: white;
+    margin-right: 35%;
+    margin-left: 35%;
+    border-radius: 20px;
+    margin-top: 10%;
+
+}
+
+.rodape {
+    position: relative;
+    left: 75%;
+    bottom: 80px;
+  
+
+}
